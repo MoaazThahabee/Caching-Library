@@ -7,7 +7,6 @@ target 'Mindvalley Test' do
 
 pod 'Alamofire', '~> 4.0'
 pod 'AlamofireObjectMapper', '~> 4.0'
-pod 'Kingfisher', '~> 3.0'
 pod 'SwiftyJSON', '~>3.0.0'
 pod 'ARSLineProgress', '~> 2.0'
 pod 'DZNEmptyDataSet'
