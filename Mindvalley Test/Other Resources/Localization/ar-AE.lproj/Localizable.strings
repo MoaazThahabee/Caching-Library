@@ -1,0 +1,52 @@
+/* 
+  Localizable.strings
+  FMS SmartTrack
+
+  Created by FMS-Tech on 10/27/16.
+  Copyright © 2016 FMS-Tech. All rights reserved.
+*/
+
+"Missing Username" = "يرجى إدخال البريد الالكتروني.";
+"Invalid email" = "البريد الكتروني غير صالح.";
+"Missing Password" = "يرجى إدخال كلمة المرور.";
+"Invalid password" = "كلمة المرور غير صالحة.";
+"Missing Service" = "يرجى إدخال اسم خدمة.";
+
+"Close Confirm Title" = "إغلاق التطبيق";
+"Logout Confirm Title" = "تسجيل الخروج";
+"Close Confirm" = "هل تريد إغلاق التطبيق؟";
+"Logout Confirm" = "هل تريد تسجيل الخروج؟";
+
+"Connection Error" = "فشل في الاتصال مع المخدم.";
+"Invalid Username Or Password" = "خطأ في اسم المستخدم أو كلمة المرور.";
+
+"YES" = "نعم";
+"NO" = "لا";
+
+"RegisterAsWorkshop" = "أهلا بك في ثغر الرافدين, هل تملك ورشة صيانة أو صالة عرض؟";
+
+"ResetEmailSent" = "تم إرسال بريد الكتروني لتعديل كلمة المرور.";
+"SuccessRegister" = "تم التسجيل, تحقق من بريدك الاكتروني لتفعيل الحساب";
+"UpdateProfileSuccess" = "تم التعديل بنجاح";
+"ChooseImageSource" = "اختر مصدر الصورة.";
+"Cancel" = "تراجع";
+"Camera" = "الكاميرا";
+"Library" = "ألبومات الصور";
+"SelectBrands" = "   إختر العلامات التجارية التي تتعامل معها";
+
+"NoGoogleMap" = "تطبيق خرائط غوغل غير موجود";
+"ChangePasswordSuccess" = "تم تغيير كلمة المرور بنجاح";
+
+
+"EditProfile" = "تعديل المعلومات الشخصية";
+"ChangePassword" = "تغيير كلمة المرور";
+"Logout" = "تسجيل خروج";
+"Login" = "تسجيل دخول";
+"UpgradeAccount" = "تسجيل مؤسستك معنا";
+"ChangeLanguage" = "تغيير اللغة.";
+"CloseConfirm" = "هذا الاجراء سيقوم باغلاق التطبيق وسيتوجب عليك إعادة تشغيله.\n هل تريد المتابعة؟.";
+
+"Price" = "السعر: ";
+"Brand" = "الماركة:";
+
+"NotLoggedInUser" = "لم تقم بتسجيل الدخول بعد";
